@@ -1,0 +1,29 @@
+.shortcode .container {
+    background-color: #fff;
+}
+.shortcode .bg-parallax {
+    background-image: url('../images/background/bg-demo-shortcode.jpg');
+}
+.shortcode .sc-title {
+    font-family: 'Fanwood Text', serif;
+    font-size: 52px;
+    color: #4b4b4b;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.shortcode .bg-parallax {
+    padding: 40px 10px;
+}
+.large-button,
+.medium-button,
+.small-button {
+    margin-bottom: 23px;
+}
+.large-button a,
+.medium-button a,
+.small-button a {
+    margin-bottom: 12px;
+}
+.tabs-wrap {
+    margin-bottom: 40px;
+}
